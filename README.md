@@ -13,7 +13,6 @@
 <p align="center">
   Sou um profissional em início de carreira na área de Tecnologia da Informação, motivado pelo interesse na área.<br>
   Estou desenvolvendo conhecimentos em programação, sistemas computacionais e ferramentas tecnológicas, buscando constantemente aprender novas habilidades.
-</p>
   </a>
 </p>
 
@@ -50,7 +49,5 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josuegutemberg/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="josue.gutemberg04@gmail.com"><img src="https://img.shields.io/badge/Gmail-1E1E1E?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/gutemjo"><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@Leehx"><img src="https://img.shields.io/badge/YouTube-1E1E1E?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
