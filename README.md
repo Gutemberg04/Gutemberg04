@@ -17,4 +17,3 @@ para contribuir com equipes que transformam problemas reais em soluções digita
 - Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA, Linux, Windows
 - Aprendendo: CSS, JavaScript, MySQL
 
-![Java]([https://www.markdownlang.com/images/photo.jpg](https://tse4.mm.bing.net/th/id/OIP.-xpjSZX3Kuty2OOB4OluEgHaFj?rs=1&pid=ImgDetMain&o=7&rm=3))
