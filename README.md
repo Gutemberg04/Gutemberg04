@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou Josué G. N. Viana 👋
 
-<!--
-**Gutemberg04/Gutemberg04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudante de Gestão de Tecnologia da Informação
 
-Here are some ideas to get you started:
+Estudante de tecnologia e em transição ativa para o mercado de TI,
+busco unir visão estratégica de negócios com habilidades técnicas
+para contribuir com equipes que transformam problemas reais em soluções digitais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Badges LinkedIn, GitHub e Gmail com logos]
+
+## Sobre mim
+- Cursando Gestão de Tecnologia da Informação
+- Focado em desenvolvimento, infraestrutura e gestão de TI
+- Aprendendo na prática através de projetos
+- Buscando primeira oportunidade profissional em TI
+
+## Tecnologias
+- Linguagens: HTML & Java
+- Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA, Linux, Windows
+- Aprendendo: CSS, JavaScript, MySQL
+
+## GitHub Stats
+[Cards com estatísticas do GitHub]
