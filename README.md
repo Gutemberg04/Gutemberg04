@@ -14,6 +14,6 @@ para contribuir com equipes que transformam problemas reais em soluções digita
 
 ## Tecnologias
 - Linguagens: HTML & Java
-- Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA, Linux, Windows
+- Ferramentas: Git, GitHub, VS Code, IntelliJ IDEA, Windows
 - Aprendendo: CSS, JavaScript, MySQL
 
