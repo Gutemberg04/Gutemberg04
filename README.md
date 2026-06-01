@@ -6,7 +6,7 @@
 ##
 
 <p align="center" style="font-size:28px; font-weight:600;">
-  Olá, o mue nome é Josué Gutemberg
+  Olá, tudo bem? Meu nome é Josué Gutemberg
 </p>
 
 
@@ -18,31 +18,23 @@
 
 ##
 
-<h3 align="center">🧠 Languages & Technologies</h3>
+<h3 align="center">🧠 Linguagens e tecnologias</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,html,css,java" />
 </p>
 
-<h3 align="center">🗄️ Database & Data</h3>
+<h3 align="center">🗄️ Banco de dados e dados</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-<h3 align="center">🛠️ Tools & Systems</h3>
+<h3 align="center">🛠️ Ferramemntas e sistemas</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,windows,linux" />
-</p>
 
-##
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gutemberg04&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutemberg04&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br>
